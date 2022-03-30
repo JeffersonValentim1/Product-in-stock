@@ -1,2 +1,9 @@
-O progama faz o armazenamendo de  produtos em estoque. Nele é possivel acrescer produtos, bem como, remover e ver o todo de produtos e valor em dinheiro.
+// *O programa faz gerenciamento de estoque. 
+// Nele é possível inserir:
+//
+// Nome do produtos
+// Valor do produto
+// Quantidade em estoque
+//
+// Ademais o programa também calcula o valor total do estoque, adiciona novos produtos e remove produtos que saíram do estoque 
 
